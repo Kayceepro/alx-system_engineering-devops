@@ -1,1 +1,2 @@
-pwd
+#!/bin/bash
+pwd: pwd is used to print oit your working dirextory for example is you navihate from your home directory to a new ome and you want to fund out which dirextory you are cutrently working on, we use pwd
