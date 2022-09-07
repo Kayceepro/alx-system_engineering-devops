@@ -1,2 +1,2 @@
-find -mindepth 1 -type d | wc -l
-*Task 12*
+#!/bin/bash
+find . -mindepth 1 -type d | wc -l
